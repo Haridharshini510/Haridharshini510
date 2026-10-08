@@ -7,7 +7,7 @@ I'm curious about how technology works, but I also care a lot about
 making things simple, useful, and good-looking.
 I'm currently working on **workspace.ai - a personal workspace that turns scattered information into organized tasks, opportunities, and timelines.**
 Right now learning **data structures, typescript and how LLMs work.**
-I'm looking to collaborate on **meaningful projects that make life easier.**
+I'm looking to collaborate on **meaningful projects that make life easier!**
 
 Reach me at - **haridharshinijayaraj@gmail.com** <br>
 Portfolio - **[https://haridharshini.is-a.dev](https://haridharshini.is-a.dev)** <br>
