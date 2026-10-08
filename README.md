@@ -9,9 +9,9 @@ I'm currently working on **workspace.ai - a personal workspace that turns scatte
 Right now learning **Currently learning data structures, typescript and how LLMs work.**
 I'm looking to collaborate on **Meaningful projects that make life easier**
 
-Reach me at - **haridharshinijayaraj@gmail.com**
-Portfolio - **[https://haridharshini.is-a.dev](https://haridharshini.is-a.dev)**
-Resume - **[https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing](https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing)**
+Reach me at - **haridharshinijayaraj@gmail.com** <br>
+Portfolio - **[https://haridharshini.is-a.dev](https://haridharshini.is-a.dev)** <br>
+Resume - **[https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing](https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing)** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
