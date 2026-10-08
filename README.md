@@ -1,13 +1,13 @@
 ## hi, i'm haridharshini :)
 
-### Aspiring Software engineer
+###An Aspiring Software engineer
 
 I like turning ideas into things people can actually use.
 I'm curious about how technology works, but I also care a lot about
 making things simple, useful, and good-looking.
 I'm currently working on **workspace.ai - a personal workspace that turns scattered information into organized tasks, opportunities, and timelines.**
-Right now learning **Currently learning data structures, typescript and how LLMs work.**
-I'm looking to collaborate on **Meaningful projects that make life easier**
+Right now learning **data structures, typescript and how LLMs work.**
+I'm looking to collaborate on **meaningful projects that make life easier.**
 
 Reach me at - **haridharshinijayaraj@gmail.com** <br>
 Portfolio - **[https://haridharshini.is-a.dev](https://haridharshini.is-a.dev)** <br>
@@ -15,7 +15,7 @@ Resume - **[https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/vi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Haridharshini510" target="blank" style="margin-right: 12 px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Haridharshini510" height="30" width="40" /></a>
+<a href="https://github.com/Haridharshini510" target="blank" style="margin-right: 12 px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Haridharshini510" height="30" width="40" style="margin-right: 12 px"/></a>
 <a href="https://linkedin.com/in/haridharshini-jayaraj-45a704306" target="blank" style="margin-right: 12 px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haridharshini-jayaraj-45a704306" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/32397245/haridharshini-jayaraj" target="blank" style="margin-right: 12 px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32397245/haridharshini-jayaraj" height="30" width="40" /></a>
 <a href="https://twitter.com/haridharshini05" target="blank" style="margin-right: 12 px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haridharshini05" height="30" width="40" /></a>
