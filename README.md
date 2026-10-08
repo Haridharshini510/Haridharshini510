@@ -1,6 +1,6 @@
 ## hi, i'm haridharshini :)
 
-###An Aspiring Software engineer
+### An Aspiring Software engineer
 
 I like turning ideas into things people can actually use.
 I'm curious about how technology works, but I also care a lot about
