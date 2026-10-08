@@ -1,18 +1,17 @@
-# Hi 👋, I'm Haridharshini J
+## hi, i'm haridharshini :)
 
 ### Aspiring Software engineer
 
-- 🔭 I'm currently working on **workspace.ai - a personal workspace that turns scattered information into organized tasks, opportunities, and timelines.**
+I like turning ideas into things people can actually use.
+I'm curious about how technology works, but I also care a lot about
+making things simple, useful, and good-looking.
+I'm currently working on **workspace.ai - a personal workspace that turns scattered information into organized tasks, opportunities, and timelines.**
+Right now learning **Currently learning data structures, typescript and how LLMs work.**
+I'm looking to collaborate on **Meaningful projects that make life easier**
 
-- 🌱 I'm currently learning **Currently learning data structures, typescript and how LLMs work**
-
-- 👯 I'm looking to collaborate on **Meaningful projects that make life easier**
-
-- 📫 How to reach me **haridharshinijayaraj@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://haridharshini.is-a.dev](https://haridharshini.is-a.dev)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing](https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing)**
+Reach me at - **haridharshinijayaraj@gmail.com**
+Portfolio - **[https://haridharshini.is-a.dev](https://haridharshini.is-a.dev)**
+Resume - **[https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing](https://drive.google.com/file/d/1Yn_OVHlHkIUUPMUN6wGeMrhUd_cAIqGX/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
